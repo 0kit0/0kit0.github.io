@@ -49,6 +49,12 @@ ul.posts li {
   border: 3px solid gray;
   margin:auto; 
 }
+.box1Inner1 {
+  width: 100%;
+  padding: 0px;
+  clear: both;
+  margin:auto; 
+}
 
 .projectbox {
   overflow: auto;
