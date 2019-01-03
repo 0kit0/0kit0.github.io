@@ -42,3 +42,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.box1 {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0; 
+}
