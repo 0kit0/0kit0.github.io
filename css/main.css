@@ -62,3 +62,9 @@ ul.posts li {
   margin-left: 0px;
   text-align: center;
 }
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
