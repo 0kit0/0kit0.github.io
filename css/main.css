@@ -51,6 +51,7 @@ ul.posts li {
 }
 
 .projectbox {
+  overflow: auto;
   float: left;
   width: 160px;
   padding: 10px;
