@@ -49,3 +49,11 @@ ul.posts li {
   border: 3px solid gray;
   margin:auto; 
 }
+
+.projectbox {
+  width: 160px;
+  padding: 10px;
+  border: 1px solid gray;
+  margin:0px;
+  text-align: center;
+}
